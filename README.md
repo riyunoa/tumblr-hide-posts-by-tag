@@ -5,7 +5,7 @@ This greasemonkey user script hides tumblr posts on your dashboard by tag.
 
 Instructions
 ------------
-* Install the Greasemonkey Firefox addon
+* Install the Greasemonkey Firefox addon (https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/)
 * Edit line 8 of tumblr-post-hider.user.js so that it contains a list of the tags you want to hide.
 * Make sure that the tag is surrounded by quotes (i.e. ")
 * The code automatically prepends a # for each tag so please leave out the "#" symbol.
